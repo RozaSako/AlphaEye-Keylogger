@@ -230,5 +230,22 @@ if __name__ == "__main__":
 ```
 ## Contributors
 
-- [@RozaSako](https://github.com/RozaSako)
-- [@qays3](https://github.com/qays3)
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/qays3">
+        <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
+    <div>
+        <p><strong>@qays3</strong></p>
+        <p>Contributor</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 10px;">
+    <a href="https://github.com/RozaSako">
+        <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
+    <div>
+        <p><strong>@RozaSako</strong></p>
+        <p>Roza Murad</p>
+    </div>
+</div>
