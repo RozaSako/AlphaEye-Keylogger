@@ -1,7 +1,7 @@
 
 # AlphaEye
 
-![alt text](Alphaeye.png)
+![alt text](img.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
