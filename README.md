@@ -14,6 +14,7 @@
 - [Understanding FastAPI](#understanding-fastapi)
 - [API:app](#apiapp)
 - [main:app](#mainapp)
+- [Contributors](#Contributors)
 
 ## Introduction
 
@@ -228,21 +229,18 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=60001)
 ```
+
 ## Contributors
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://github.com/qays3">
+    <a href="https://github.com/qays3" style="text-decoration: none;">
         <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
     </a>
-
-</div>
-
-<div style="display: flex; align-items: center;">
-    <a href="https://github.com/RozaSako">
+    <a href="https://github.com/RozaSako" style="text-decoration: none;">
         <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
     </a>
-
 </div>
+
 
 
 
