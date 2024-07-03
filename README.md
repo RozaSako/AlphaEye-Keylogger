@@ -228,3 +228,7 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=60001)
 ```
+## Contributors
+
+- [@RozaSako](https://github.com/RozaSako)
+- [@qays3](https://github.com/qays3)
