@@ -1,6 +1,8 @@
 
 # AlphaEye
 
+![alt text](img1.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Direct Login](#direct-login)
