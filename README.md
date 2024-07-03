@@ -233,11 +233,11 @@ if __name__ == "__main__":
 ## Contributors
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://github.com/qays3" style="text-decoration: none; display: inline-block; width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-        <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" style="width: 100%; height: auto;">
+    <a href="https://github.com/qays3" style="text-decoration: none;">
+        <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
     </a>
-    <a href="https://github.com/RozaSako" style="text-decoration: none; display: inline-block; width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-        <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" style="width: 100%; height: auto;">
+    <a href="https://github.com/RozaSako" style="text-decoration: none;">
+        <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
     </a>
 </div>
 
