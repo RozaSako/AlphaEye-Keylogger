@@ -236,7 +236,6 @@ if __name__ == "__main__":
     </a>
     <div>
 
-    </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
