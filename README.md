@@ -230,22 +230,25 @@ if __name__ == "__main__":
 ```
 ## Contributors
 
-<div style="display: flex; align-items: center;">
-    <a href="https://github.com/qays3">
-        <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
-    </a>
-    <div>
-        <p><strong>@qays3</strong></p>
-        <p>Contributor</p>
+<div style="display: flex;">
+    <div style="display: flex; align-items: center; margin-right: 20px;">
+        <a href="https://github.com/qays3">
+            <img src="https://github.com/qays3.png" alt="@qays3" title="@qays3" width="50px" height="50px" style="border-radius: 50%;">
+        </a>
+        <div style="margin-left: 10px;">
+            <p><strong>@qays3</strong></p>
+            <p>Contributor</p>
+        </div>
+    </div>
+
+    <div style="display: flex; align-items: center;">
+        <a href="https://github.com/RozaSako">
+            <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" width="50px" height="50px" style="border-radius: 50%;">
+        </a>
+        <div style="margin-left: 10px;">
+            <p><strong>@RozaSako</strong></p>
+            <p>Roza Murad</p>
+        </div>
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-top: 10px;">
-    <a href="https://github.com/RozaSako">
-        <img src="https://github.com/RozaSako.png" alt="@RozaSako" title="@RozaSako" width="50px" height="50px" style="border-radius: 50%; margin-right: 10px;">
-    </a>
-    <div>
-        <p><strong>@RozaSako</strong></p>
-        <p>Roza Murad</p>
-    </div>
-</div>
