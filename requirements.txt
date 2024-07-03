@@ -1,0 +1,8 @@
+requests
+psutil
+pynput
+tk
+pywin32
+watchdog
+browserhistory
+Pillow
